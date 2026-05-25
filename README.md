@@ -34,7 +34,7 @@ PROYECTO FINAL/
 │   └── limpieza.py
 │
 ├── Visualizacion/
-│   └── graficos.py
+│   └── graficos.ipynb
 │
 ├── Informe.pdf
 │
