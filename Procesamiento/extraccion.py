@@ -36,7 +36,7 @@ def extraer_datos (pais:str, indicador:str, inicio:int, fin:int):
     #   URL
     url = f'https://api.worldbank.org/v2/country/{pais}/indicator/{indicador}?date={inicio}:{fin}&format=json&per_page=100'
     
-    #   Pretición
+    #   Petición
     r = requests.get(url, timeout=20)
     r.raise_for_status()    # Verificación de petición exitosa
 
