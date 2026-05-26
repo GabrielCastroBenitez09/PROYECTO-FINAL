@@ -75,4 +75,4 @@ Contienen un cuaderno de visualizaciones:
 - **graficos.ipynb:** Notebook con los gráficos diagnósticos por país, y los gráficos comparativos entre países de cada indicador.
 
 ### Informe
-Informe ejecutivo ____
+Análisis comparativo de los indicadores macroeconómicos obtenidos de los cuatro países.
